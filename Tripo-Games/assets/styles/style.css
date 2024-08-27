@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'Poppins-SemiBold';
+    src: url(assets/fonts/Poppins-SemiBold.ttf)format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins-ExtraLight';
+    src: url(assets/fonts/Poppins-ExtraLight.ttf)format('truetype');
+}
+
+@font-face {
+    font-family: 'Raleway-SemiBold';
+    src: url(assets/fonts/Raleway-SemiBold.ttf)format('truetype');
+}
+
+.poppins-semibold {
+    font-family: Poppins-SemiBold;
+}
+
+.poppins-extralight {
+    font-family: Poppins-ExtraLight;
+}
+
+.raleway-semibold {
+    font-family: Raleway-SemiBold;
+}
+
+.general-blue {
+    color: #007acc;
+}
+
+.bg-gary {
+    background-color: #dedcdc;
+}
+
+.menu-top {
+    background-color: #007acc;
+    border-radius: 20px 20px 20px 0;
+    height: 100px;
+}
+
+.menu-top .right .menu svg {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.container-top .left {
+    background-color: #007acc;
+    border-radius: 20px;
+}
+
+.games-btn {
+    color: #007acc;
+    border-radius: 40px;
+}
+
+.container-mid .games .each-game img {
+    border-radius: 20px;
+}
+
+.container-mid .games .each-game .content .left .top .left .icon {
+    border: 8px solid #a7d2f1;
+}
+
+.container-mid .games .each-game .content {
+    background-color: #dedcdc;
+}
